@@ -1,7 +1,7 @@
-# NRMS_Pytorch_MIND
+# DDM_Pytorch_MIND
  
 ## Descrition
-- Model: NRMS
+- Model: DDM
 - Dataset: MIND SMALL
 - Requirements:
     - Python=3.7.10
